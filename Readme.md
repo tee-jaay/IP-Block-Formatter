@@ -24,7 +24,7 @@ This app takes the "Top 5 IPs Blocked" input from Wordfence or any data with the
 ## Installation
 
 1. Clone this repository.
-2. Run the app using the command: **[python app.py]**
+2. Run the app using the command: **python app.py**
 
 ## License
 
