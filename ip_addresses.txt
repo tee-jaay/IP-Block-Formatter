@@ -1,0 +1,204 @@
+1185.130.225.141	Netherlands		23,169
+141.105.64.242	Russian Federation		22,202
+77.246.104.65	Netherlands		21,691
+185.130.225.203	Netherlands		10,721
+111.90.150.114	Malaysia		10,076
+195.133.75.205	Netherlands		9,538
+185.100.87.144	Romania		4,556
+101.99.94.141	Malaysia		4,545
+111.90.149.196	Malaysia		3,813
+179.43.182.230	Switzerland		2,851
+101.99.75.238	Malaysia		2,130
+185.7.33.81	Sweden		1,671
+185.246.189.21	Netherlands		1,187
+82.221.141.4	Iceland		904
+101.99.75.113	Malaysia		713
+188.95.65.43	Germany		523
+103.155.92.10	Malaysia		462
+45.131.111.18	Netherlands		412
+185.247.226.191	Seychelles		298
+179.60.147.120	Venezuela		152
+217.76.159.96	Spain		152
+185.247.224.251	Seychelles		100
+31.171.155.38	Albania		89
+4.150.61.22	United States		86
+62.197.144.21	Algeria		86
+20.244.3.20	India		77
+217.196.100.54	Netherlands		75
+178.159.37.48	Ukraine		74
+88.208.196.182	United Kingdom		59
+85.215.162.243	Germany		50
+85.114.138.220	Germany		42
+202.166.194.18	Nepal		36
+190.123.44.245	Panama		36
+146.19.191.210	Germany		30
+41.216.188.168	Germany		23
+91.92.252.171	Bulgaria		13
+109.107.171.111	Finland		12
+91.92.252.142	Bulgaria		11
+91.92.254.89	Bulgaria		11
+51.222.158.14	Canada		8
+89.163.210.249	Germany		8
+173.224.119.245	United States		7
+137.184.226.51	United States		6
+2.59.222.121	Ukraine		6
+77.68.91.59	United Kingdom		5
+167.86.99.163	Germany		5
+41.216.188.92	Germany		4
+199.19.72.119	United States		4
+41.216.188.162	Germany		4
+31.15.13.119	Czech Republic		4
+20.197.4.181	India		4
+91.92.252.173	Bulgaria		4
+91.92.243.143	Bulgaria		3
+188.165.223.112	France		2
+198.71.236.36	United States		2
+164.68.113.186	Germany		2
+134.19.179.131	Netherlands		2
+167.114.97.163	Canada		2
+138.197.161.71	Canada		2
+162.241.203.117	United States		2
+198.57.247.216	United States		2
+20.244.0.66	India		2
+104.248.82.249	Netherlands		2
+185.162.130.23	Estonia		2
+156.249.28.32	Seychelles		2
+173.236.208.81	United States		2
+47.114.46.31	China		2
+2.59.222.113	Ukraine		2
+128.199.147.206	Singapore		1
+91.121.155.215	France		1
+184.75.223.235	Canada		1
+182.50.151.17	Singapore		1
+35.205.224.248	Belgium		1
+5.9.79.25	Germany		1
+92.205.8.185	France		1
+162.241.2.153	United States		1
+108.179.193.70	United States		1
+65.109.20.147	Finland		1
+134.19.179.211	Netherlands		1
+108.167.133.34	United States		1
+157.7.105.223	Japan		1
+192.185.83.71	United States		1
+132.148.121.158	United States		1
+108.167.189.62	United States		1
+148.66.146.35	Singapore		1
+199.192.28.20	United States		1
+202.148.11.124	Indonesia		1
+213.152.162.99	Netherlands		1
+134.19.179.155	Netherlands		1
+185.200.116.219	Romania		1
+159.89.164.144	India		1
+192.185.4.138	United States		1
+108.167.158.198	United States		1
+66.33.216.126	United States		1
+75.119.192.97	United States		1
+198.71.241.52	United States		1
+195.142.192.236	Turkey		1
+198.203.28.43	United States		1
+104.236.45.251	United States
+80.82.76.214	Netherlands		30,540
+185.130.225.141	Netherlands		23,169
+141.105.64.242	Russian Federation		22,202
+77.246.104.65	Netherlands		21,691
+185.130.225.203	Netherlands		10,721
+111.90.150.114	Malaysia		10,076
+195.133.75.205	Netherlands		9,538
+185.100.87.144	Romania		4,557
+101.99.94.141	Malaysia		4,546
+111.90.149.196	Malaysia		3,814
+179.43.182.230	Switzerland		2,853
+101.99.75.238	Malaysia		2,130
+185.7.33.81	Sweden		1,672
+185.246.189.21	Netherlands		1,187
+82.221.141.4	Iceland		904
+101.99.75.113	Malaysia		713
+188.95.65.43	Germany		523
+103.155.92.10	Malaysia		462
+45.131.111.18	Netherlands		412
+185.247.226.191	Seychelles		298
+179.60.147.120	Venezuela		152
+217.76.159.96	Spain		152
+185.247.224.251	Seychelles		100
+31.171.155.38	Albania		89
+4.150.61.22	United States		86
+62.197.144.21	Algeria		86
+20.244.3.20	India		77
+217.196.100.54	Netherlands		75
+178.159.37.48	Ukraine		74
+88.208.196.182	United Kingdom		59
+85.215.162.243	Germany		50
+85.114.138.220	Germany		42
+202.166.194.18	Nepal		36
+190.123.44.245	Panama		36
+146.19.191.210	Germany		30
+41.216.188.168	Germany		23
+91.92.252.171	Bulgaria		13
+109.107.171.111	Finland		12
+91.92.252.142	Bulgaria		11
+91.92.254.89	Bulgaria		11
+51.222.158.14	Canada		8
+89.163.210.249	Germany		8
+173.224.119.245	United States		7
+137.184.226.51	United States		6
+2.59.222.121	Ukraine		6
+77.68.91.59	United Kingdom		5
+167.86.99.163	Germany		5
+41.216.188.92	Germany		4
+199.19.72.119	United States		4
+41.216.188.162	Germany		4
+31.15.13.119	Czech Republic		4
+20.197.4.181	India		4
+91.92.252.173	Bulgaria		4
+91.92.243.143	Bulgaria		3
+198.71.236.36	United States		2
+188.165.223.112	France		2
+164.68.113.186	Germany		2
+134.19.179.131	Netherlands		2
+167.114.97.163	Canada		2
+138.197.161.71	Canada		2
+162.241.203.117	United States		2
+198.57.247.216	United States		2
+20.244.0.66	India		2
+104.248.82.249	Netherlands		2
+185.162.130.23	Estonia		2
+173.236.208.81	United States		2
+156.249.28.32	Seychelles		2
+98.70.24.203	India		2
+47.114.46.31	China		2
+35.201.9.151	Australia		2
+2.59.222.113	Ukraine		2
+128.199.147.206	Singapore		1
+91.121.155.215	France		1
+184.75.223.235	Canada		1
+35.205.224.248	Belgium		1
+5.9.79.25	Germany		1
+92.205.8.185	France		1
+162.241.2.153	United States		1
+108.179.193.70	United States		1
+182.50.151.17	Singapore		1
+199.249.230.22	United States		1
+108.167.133.34	United States		1
+157.7.105.223	Japan		1
+192.185.83.71	United States		1
+65.109.20.147	Finland		1
+134.19.179.211	Netherlands		1
+148.66.146.35	Singapore		1
+199.192.28.20	United States		1
+202.148.11.124	Indonesia		1
+213.152.162.99	Netherlands		1
+132.148.121.158	United States		1
+108.167.189.62	United States		1
+159.89.164.144	India		1
+192.185.4.138	United States		1
+108.167.158.198	United States		1
+134.19.179.155	Netherlands		1
+185.200.116.219	Romania		1
+75.119.192.97	United States		1
+198.71.241.52	United States		1
+195.142.192.236	Turkey		1
+194.169.175.93	   Netherlands	12
+58.87.80.238	   China	12
+170.64.189.208	   Australia	12
+46.20.46.198	   Germany	10
+138.68.166.148	   United Kingdom	6
